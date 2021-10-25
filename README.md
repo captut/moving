@@ -3,6 +3,7 @@
 ## Before Moving
 - Cancel / Transfer (Gas & Electricity) PSEG, ConEd Etc..
 - Cancel / Transfer Internet
+- Transfer Water
 - Update Addresses Everywhere
   - [USPS Mail Forwarding](https://www.usps.com/manage/forward.htm)
   - Employer
@@ -30,6 +31,8 @@
 - [Clean Dishwasher](https://www.youtube.com/watch?v=CI41NoqAuew)
 - [Clean Washing Machine](https://www.youtube.com/watch?v=WxxOtXTiDUY)
 - [Clean Dryer](https://www.youtube.com/watch?v=eQP5d6sZM4o)
+- Find you Garbage and Re-Cycling Days
+
 
 ## Moving Shopping List
 - Buy Safety Essentials
