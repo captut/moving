@@ -1,7 +1,7 @@
 # Moving to a new house ?
 
 ## Before Moving
-- Cancel / Transfer (GAS) PSEG
+- Cancel / Transfer (Gas & Electricity) PSEG, ConEd Etc..
 - Cancel / Transfer Internet
 - Update Addresses Everywhere
   - [USPS Mail Forwarding](https://www.usps.com/manage/forward.htm)
